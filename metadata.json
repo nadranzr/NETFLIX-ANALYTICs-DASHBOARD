@@ -1,0 +1,6 @@
+{
+  "name": "Netflix Analytics Dashboard",
+  "description": "Analyze your Netflix viewing history, watch times, habits, and trends in an interactive personal dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
